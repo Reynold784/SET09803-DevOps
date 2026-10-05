@@ -9,3 +9,4 @@ A simple DevOps coursework application with CI/CD via GitHub Actions.
 
 [![Releases](https://img.shields.io/github/release/Reynold784/SET09803-DevOps/all.svg?style=flat-square)](https://github.com/Reynold784/SET09803-DevOps/releases)
 
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Reynold784/SET09803-DevOps/main.yml?branch=develop)
